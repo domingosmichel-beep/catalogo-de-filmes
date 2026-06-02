@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(15, 80, 201);
+    background-color: #D2DDE6;
 }
 
 .card-filme{
-    transition: 0.3s;
-    cursor: pointer;
+transition: 0.3s;
+cursor: pointer;
 }
 .card-filme:hover {
     transform: scale(1.03);
